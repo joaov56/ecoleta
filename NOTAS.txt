@@ -1,6 +1,0 @@
-Linguagem: Javascript
-Ecoleta
-<!----!> TAG PARA COMENTAR HTML
-
-BOX Model: toda caixa tem: altura, largura, espaçamento, preenchimento
-bordas, cor, fundo, display e alinhamento 
