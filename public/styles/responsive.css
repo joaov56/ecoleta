@@ -29,6 +29,15 @@
     #page-search-results .card img{
         height: 250px;
     }
+
+
+    #page-create-point .field-group{
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field+.field{
+        margin-left: 0;
+    }
 }
 
 @media(min-width: 1700px){
@@ -46,5 +55,13 @@
 @media(max-width: 320px){
     #page-home main h1{
         font-size: 35px;
+    }
+
+    #page-create-point .field-group{
+        
+        display: block;
+
+
+        width: 100%;
     }
 }
