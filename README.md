@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/fSYo7kdGwuMLmjwv7E/giphy.gif">
 </h1>
 
-## 🏷 Sobre
+##Sobre
 
 O projeto **Ecoleta** foi desenvolvido para o mapeamento de locais de coleta de materiais que não podem ser descartados no lixo comum.
 
